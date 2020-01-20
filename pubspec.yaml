@@ -20,10 +20,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   fonts:
-    - family: Montserrat
+    - family: OverpassMono
       fonts:
-        - asset: fonts/Montserrat-Black.ttf
-        - asset: fonts/Montserrat-Bold.ttf
-        - asset: fonts/Montserrat-Medium.ttf
-        - asset: fonts/Montserrat-Regular.ttf
-        - asset: fonts/Montserrat-SemiBold.ttf
+        - asset: fonts/OverpassMono-Bold.ttf
+        - asset: fonts/OverpassMono-Regular.ttf
